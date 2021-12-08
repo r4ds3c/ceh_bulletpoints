@@ -1,7 +1,7 @@
 # ceh_bulletpoints
 Certified Ethical Hacker summary in bullet points
-forked from https://github.com/undergroundwires/CEH-in-bullet-points
-converted to pdfs with Typora and CombinePDF
+#forked from https://github.com/undergroundwires/CEH-in-bullet-points
+#converted to pdfs with Typora and CombinePDF
 
 Symbols
 
