@@ -1,5 +1,8 @@
 # ceh_bulletpoints
 Certified Ethical Hacker summary in bullet points 
+https://github.com/undergroundwires/CEH-in-bullet-points
+converted to pdfs with Typora and CombinePDF
+
 Symbols
 
     There are some symbols used throughout the documentation:
