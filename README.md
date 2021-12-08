@@ -14,7 +14,7 @@ Symbols
 
 Content
 
-    Introduction
+   * Introduction
         Information security
             Information security overview
             Security threats and attacks
